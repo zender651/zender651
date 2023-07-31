@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishan Biswas
 - 👀 I’m interested in software development and web development ...
-- 🌱 I’m currently studying EEE
-- ✒️I am currently learning ReactJS
+- 🌱Graduate  in EEE
+- ✒️I am currently learning ReactJS, NodeJS and Express
 
 
 <!---
