@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishan Biswas
 - 👀 I’m interested in software development and web development ...
-- 🌱Graduate  in EEE
-- ✒️I am currently learning ReactJS, NodeJS and Express
+- 🌱Graduate  from IITPatna
+- ✒️I am currently learning ReactJS, NodeJS and Express, FastAPI, Python, MySQL,Docker, Kubernetes and Golang
 
 
 <!---
